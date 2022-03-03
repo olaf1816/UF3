@@ -1,0 +1,7 @@
+NOM = "Introduce un nombre: "
+APELLIDO = "Introduce un apellido: "
+EDAD = "Introduce una edad: "
+DESPLEGABLE = "****MENÚ**** \n\t 1.-tecno1 \n\t 2.-tecno2 \n\t 3.-tecno3 \n Introduce el número de la opción"
+ERROR = "EROOR"
+TECNOLOGIA = "Introduce la tecnologia en la que estas interesado/a: "
+REPETIR = "Introduce un 1 si quieres introducir mas registros: "
